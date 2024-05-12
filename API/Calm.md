@@ -11,7 +11,7 @@ Clients:
 - [Commet](https://about.commet.lol)
 - Scratch.IM (no link at this time)
 
-If you would like to add your own client, then edit this doc on [GitHub](https://github.com/Commettt/Docs).
+If you would like to add your own client, then edit this doc on [GitHub](https://github.com/Commettt/Docs/blob/main/API/Calm.md).
 
 # Calm\contribute
 Just like any of our other open services, you can edit Calm using a well-known developer tool, Git. We host our code on GitHub, and the system has different libraries to it. The one we used in Commet is written in JavaScript.
